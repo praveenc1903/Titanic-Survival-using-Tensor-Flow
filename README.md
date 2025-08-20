@@ -64,7 +64,7 @@ PassengerId | Survived | Pclass | Name           | Sex   | Age  | SibSp | Parch 
 
   <h2 style="color: #0D47A1; margin-top: 25px;">🚀 How to Run</h2>
   <ol>
-    <li><strong>Clone the repo:</strong> <code>git clone https://github.com/your-username/titanic-survival-prediction.git</code></li>
+    <li><strong>Clone the repo:</strong> <code>git clone https://github.com/praveenc1903/titanic-survival-prediction.git</code></li>
     <li><strong>Open in Colab or Jupyter:</strong> Launch the notebook in your preferred environment.</li>
     <li><strong>Install dependencies:</strong> <code>pip install pandas numpy matplotlib seaborn scikit-learn lightgbm xgboost mlxtend tensorflow keras</code></li>
     <li><strong>Download the dataset:</strong> From Kaggle or use the built-in Colab loader.</li>
